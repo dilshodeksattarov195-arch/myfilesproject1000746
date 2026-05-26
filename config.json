@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingprocess",
+        "uuid": 4665484,
+        "checksum": "f3qup"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
